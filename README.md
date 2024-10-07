@@ -27,8 +27,7 @@ Um sistema de gerenciamento de saúde</h3>
 3. 🔋 [Funcionalidades](#features)
 4. 🤸 [Início rápido](#quick-start)
 5. 🕸️ [Snippets](#snippets)
-6. 🔗 [Assets](#links)
-7. 🚀 [Mais](#more)
+
 
 ## <a name="introduction">🤖 Introdução</a>
 
